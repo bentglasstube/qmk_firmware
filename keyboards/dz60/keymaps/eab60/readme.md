@@ -3,7 +3,7 @@
 This is my personal 60% layout from when I first started building keyboards.
 It has grown a bit over time but is more or less the same.
 
-[![](https://i.imgur.com/PbkfkuJ.png)][layout]
+[![eab60 layout](https://i.imgur.com/PbkfkuJ.png)][layout]
 
 To keep things simple, there are only two layers for typing (and a third for
 backlight stuff).  The base layer is mostly standard for 60% keyboards, with a
@@ -21,7 +21,7 @@ the rest of the buttons missing from a 104 key keyboard.  There are also
 multimedia functions and basic backlighting contols.
 
 More robust backlighting control is achieved by holding down the "menu" key.
-These functions aren't documented on the layout.
+These functions aren't documented on the layout image.
 
  * `ESC` - Toggle backlighting
  * `1`-`9` - Choose preset backlight pattern
